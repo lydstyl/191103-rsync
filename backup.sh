@@ -14,3 +14,5 @@ sleep 1
 # # # UMOUNT
 #sudo umount $SOURCE
 #sudo umount $DESTINATION
+
+echo Sauvegarde \(pas mirroir\) de $NASFOLDER sur $RSYNCFOLDER terminée.
