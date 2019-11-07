@@ -7,4 +7,4 @@
 ./mount.sh # execut
 
 # execut backup.sh from NAS
-$SOURCE$NASFOLDER/backup.sh
+$SOURCE/backupScript/backup.sh

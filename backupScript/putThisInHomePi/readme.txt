@@ -1,3 +1,1 @@
-Change cron to lauch : 
-
-~/backupScript/putThisInHomePi/backupScript/mountAndBackup.sh
+Change cron (sudo crontab -e) so it launch mountAndBackup.sh
